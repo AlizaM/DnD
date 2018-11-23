@@ -115,6 +115,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="dndMap.h" />
+    <ClInclude Include="i_dndMap.h" />
+    <ClInclude Include="i_room.h" />
+    <ClInclude Include="passage.h" />
+    <ClInclude Include="room.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
