@@ -3,5 +3,6 @@
 class IRoom
 {
 public:
-	virtual ~IRoom() {};
+	virtual ~IRoom()=0;
 };
+
